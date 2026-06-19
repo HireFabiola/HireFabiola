@@ -13,7 +13,7 @@ My background in mathematics and education taught me how to analyze complex syst
 
 🌐 **Portfolio:** https://capstone-frontend-novc.onrender.com/portfolio
 
-💼 **LinkedIn:** YOUR_LINKEDIN_URL
+💼 **LinkedIn:** www.linkedin.com/fabiola-aurelien
 
 📧 **Email:** fabiola.aurelien@gmail.com
 
