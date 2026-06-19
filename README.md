@@ -1,20 +1,11 @@
 # Hi there, I'm Fabiola Aurelien 👋🏾
 
-### Software Engineer | AI-Native Full-Stack Developer | Mathematician
+### Software Engineer | AI-Native Developer | Former Systems Programmer
+I enjoy building software that combines thoughtful user experiences, scalable backend architecture, and practical AI solutions.
 
 I began my career as a **Systems Programmer/Analyst**, spent more than **20 years as a mathematics educator**, and have now returned to software engineering to build modern, AI-powered applications.
 
 My background in mathematics and education taught me how to analyze complex systems, solve problems methodically, and communicate technical concepts clearly—skills I now bring to every software project I build.
-
----
-
-## 🚀 Portfolio
-
-🌐 **Portfolio:** https://capstone-frontend-novc.onrender.com/portfolio
-
-💼 **LinkedIn:** www.linkedin.com/fabiola-aurelien
-
-📧 **Email:** fabiola.aurelien@gmail.com
 
 ---
 
