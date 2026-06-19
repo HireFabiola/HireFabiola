@@ -44,7 +44,7 @@ A full-stack MERN application that streamlines business operations through secur
 
 **Tech:** React • TypeScript • Node.js • Express • MongoDB • JWT
 
-🔗 Live Demo: YOUR_R4B_URL
+🔗 Live Demo: https://capstone-frontend-novc.onrender.com/
 
 ---
 
@@ -65,6 +65,10 @@ https://hirefabiola.github.io/Wanderlust-Countries-Explorer/
 A backend-focused CRUD application demonstrating RESTful API architecture, authentication, database design, and server-side development.
 
 **Tech:** Node.js • Express • MongoDB
+
+🔗 Live Demo
+
+https://booklistapp-q5sm.onrender.com/
 
 ---
 
@@ -105,14 +109,6 @@ Mathematics (Computer Science Concentration)
 
 ---
 
-# 📈 GitHub Stats
-
-![Fabiola's GitHub stats](https://github-readme-stats.vercel.app/api?username=HireFabiola&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HireFabiola&layout=compact&hide_border=true)
-
----
-
 # 🤝 Let's Connect
 
 🌐 Portfolio
@@ -121,7 +117,7 @@ https://capstone-frontend-novc.onrender.com/portfolio
 
 💼 LinkedIn
 
-YOUR_LINKEDIN_URL
+www.linkedin.com/fabiola-aurelien
 
 📧 Email
 
