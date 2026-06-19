@@ -1,5 +1,5 @@
-## Hi there 👋
-# Hi there, I'm Fabiola Aurelien 👋
+## Hi there 👋🏾
+# Hi there, I'm Fabiola Aurelien 👋🏾
 
 ### Software Engineer | AI-Native Full-Stack Developer | Mathematician
 
