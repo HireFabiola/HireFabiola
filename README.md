@@ -1,4 +1,3 @@
-## Hi there 👋🏾
 # Hi there, I'm Fabiola Aurelien 👋🏾
 
 ### Software Engineer | AI-Native Full-Stack Developer | Mathematician
@@ -38,45 +37,64 @@ My background in mathematics and education taught me how to analyze complex syst
 
 # 💼 Featured Projects
 
-## 🏗 R4B Design Studio
+Click any project preview to explore the live demo.
 
-A full-stack MERN application that streamlines business operations through secure authentication, inquiry management, project tracking, and task management.
-
-**Tech:** React • TypeScript • Node.js • Express • MongoDB • JWT
-
-🔗 Live Demo: https://capstone-frontend-novc.onrender.com/
-
----
-
-## 🌍 WanderLust Countries Explorer
-
-An interactive country exploration application featuring advanced search, region filtering, visited-country tracking, travel journals, responsive design, and interactive maps.
-
-**Tech:** TypeScript • Bootstrap • REST APIs
-
-🔗 Live Demo
-
-https://hirefabiola.github.io/Wanderlust-Countries-Explorer/
-
----
-
-## 📚 Digital Library
-
-A backend-focused CRUD application demonstrating RESTful API architecture, authentication, database design, and server-side development.
-
-**Tech:** Node.js • Express • MongoDB
-
-🔗 Live Demo
-
-https://booklistapp-q5sm.onrender.com/
-
----
-
-## 🤖 AI Investment Analyzer *(Currently Building)*
-
-An Agentic AI application that analyzes real estate investment opportunities using intelligent workflows, tool calling, and AI-assisted decision support.
-
-**Tech:** Python • OpenAI • Agentic AI
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://capstone-frontend-novc.onrender.com/">
+        <img src="images/r4b-design-studio.png" alt="R4B Design Studio project preview" width="100%">
+      </a>
+      <h3>R4B Design Studio</h3>
+      <p>Full-stack MERN application for secure inquiries, project tracking, task workflows, and business operations.</p>
+      <p><strong>Tech:</strong> React • TypeScript • Node.js • Express • MongoDB • JWT</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://hirefabiola.github.io/Wanderlust-Countries-Explorer/">
+        <img src="images/wanderlust.png" alt="WanderLust Countries Explorer project preview" width="100%">
+      </a>
+      <h3>WanderLust Countries Explorer</h3>
+      <p>Interactive country exploration app with search, filtering, maps, journals, and responsive travel tools.</p>
+      <p><strong>Tech:</strong> TypeScript • Bootstrap • REST APIs</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://hirefabiola.github.io/react-task-dashboard/">
+        <img src="images/task-dashboard.png" alt="Task Dashboard project preview" width="100%">
+      </a>
+      <h3>Task Dashboard</h3>
+      <p>Responsive dashboard experience with charts, filtering, task metrics, and clean project visibility.</p>
+      <p><strong>Tech:</strong> React • Charts • Context API</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://hirefabiola.github.io/Mod8_GenAI/">
+        <img src="images/genai-flashcards.png" alt="GenAI Flashcard App project preview" width="100%">
+      </a>
+      <h3>GenAI Flashcard App</h3>
+      <p>AI-assisted study tool that presents learning content through an interactive flashcard experience.</p>
+      <p><strong>Tech:</strong> React • TypeScript • GenAI</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://booklistapp-q5sm.onrender.com/">
+        <img src="images/digital-bookshelf.png" alt="Digital Bookshelf project preview" width="100%">
+      </a>
+      <h3>Digital Bookshelf</h3>
+      <p>Backend-focused CRUD application demonstrating RESTful routes, server-side rendering, and database-backed workflows.</p>
+      <p><strong>Tech:</strong> Node.js • Express • EJS • CRUD</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://robb-designs.github.io/fuelwise/">
+        <img src="images/fuelwise.png" alt="FuelWise project preview" width="100%">
+      </a>
+      <h3>FuelWise</h3>
+      <p>Collaborative health and fuel-planning app with authentication, protected routes, and API-driven features.</p>
+      <p><strong>Tech:</strong> React • Node.js • JWT</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
