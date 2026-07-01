@@ -1,12 +1,12 @@
 # Hi there, I'm Fabiola Aurelien 👋🏾
 
-### Software Engineer | AI-Native Developer | Former Systems Programmer
+### Software Engineer | AI Solutions Engineer | Systems Thinker
 
-I build full-stack applications that combine intuitive user experiences, scalable backend architecture, and practical AI solutions.
+I build AI-powered applications, full-stack web platforms, and backend services that solve real-world problems through thoughtful software design and practical AI integration.
 
-I began my career as a **Systems Programmer/Analyst**, spent more than **20 years as a mathematics educator**, and have now returned to software engineering to build modern, AI-powered applications.
+My career spans enterprise systems programming, more than 20 years in mathematics education and consulting, and a return to software engineering focused on building modern AI-native applications. That diverse background enables me to approach technical challenges with systems thinking, strong analytical reasoning, and a deep appreciation for communicating complex ideas clearly.
 
-My background in mathematics and education taught me how to analyze complex systems, solve problems methodically, and communicate technical concepts clearly—skills I now bring to every software project I build.
+Today I'm building agentic AI applications, full-stack business platforms, and decision-support tools using React, TypeScript, Python, FastAPI, Node.js, and MongoDB while exploring how AI can responsibly improve the way people work and make decisions.
 
 ---
 
